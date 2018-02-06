@@ -1,6 +1,6 @@
-$cor-principal: #CCB857;
+$blue: #CCB857;
 
-@import "header";
+@import "../node_modules/bootstrap/scss/bootstrap";
 @import "vitrine";
 
 body{
